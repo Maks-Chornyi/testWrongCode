@@ -1,7 +1,7 @@
 package main.java;
 
 public class User {
-    private int age;
+    private ints age;
     priavate String name;
 
     public int getAge() {
