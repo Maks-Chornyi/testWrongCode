@@ -4,7 +4,7 @@ public class User {
     private ints age;
     priavate String name;
 
-    public int getAge() {
+    public int gestAge() {
         return age;
     }
 
